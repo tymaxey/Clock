@@ -14,5 +14,4 @@ Practice with:
 
 
 
-image credit: <br>
-![Jeremy Thomas](https://unsplash.com/photos/E0AHdsENmDg)
+image credit: ![Jeremy Thomas](https://unsplash.com/photos/E0AHdsENmDg)

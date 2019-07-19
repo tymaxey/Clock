@@ -1,5 +1,5 @@
 # Clock :alarm_clock:
-Clock made with CSS, JavaScript
+*Made with CSS, JavaScript*
 
 
 
